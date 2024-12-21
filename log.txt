@@ -1,0 +1,7 @@
+#Sample Log File
+INFO Startup: Application started
+ERROR Database: Connection failed
+WARNING Memory: High usage detected
+ERROR FileNotFound: Unable to locate config file
+ERROR Database: Query timeout
+INFO Shutdown: Application stopped

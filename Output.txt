@@ -1,0 +1,5 @@
+Error Type: Database
+  - Connection failed
+  - Query timeout
+Error Type: FileNotFound
+  - Unable to locate config file
