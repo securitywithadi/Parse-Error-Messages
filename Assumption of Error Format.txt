@@ -1,1 +1,3 @@
+#Assuming that the message is in the below format
+
 ERROR <ErrorType>: <ErrorMessage>
